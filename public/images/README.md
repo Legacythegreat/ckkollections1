@@ -1,0 +1,1 @@
+Add your product image files here, such as product-1.jpg through product-6.jpg.
